@@ -5,7 +5,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://sun9-6.userapi.com/impg/n5IzkrHEdPoVxQsyTTcaeWYTmJiuY_mBlNHe9Q/P0SuFKAV7_Q.jpg?size=240x60&quality=96&sign=8dcb829af99f2cdac9d0bddea3bd50cb&type=album" /> <img src="https://sun9-26.userapi.com/impg/qN46mAAc87c9Jsr-LuWfvNRXKCDPbFmtJIMG-Q/KC8UwT5MaS0.jpg?size=240x60&quality=96&sign=0fba61a3e5c8870ffa53385fa1f8bd5e&type=album" /> <img src="https://sun9-86.userapi.com/impg/s0pS7Y2HRce5smOnX1_69S37WflxKb7Y7ukwKQ/I6_gQtz6WRU.jpg?size=240x60&quality=96&sign=600cbd8be7c4196634ee0a0224426516&type=album" /> <img src="https://sun9-7.userapi.com/impg/KQ6GVLM3esFLzYGpruo5la06Hp9AAcoY6Uc5pw/8YypPogY8KU.jpg?size=240x60&quality=96&sign=c6cd08f06452a13d601da45efbcb8063&type=album" /> 
+  <img src="https://sun9-6.userapi.com/impg/n5IzkrHEdPoVxQsyTTcaeWYTmJiuY_mBlNHe9Q/P0SuFKAV7_Q.jpg?size=240x60&quality=96&sign=8dcb829af99f2cdac9d0bddea3bd50cb&type=album" /> <img src="https://sun9-86.userapi.com/impg/s0pS7Y2HRce5smOnX1_69S37WflxKb7Y7ukwKQ/I6_gQtz6WRU.jpg?size=240x60&quality=96&sign=600cbd8be7c4196634ee0a0224426516&type=album" /> <img src="https://sun9-7.userapi.com/impg/KQ6GVLM3esFLzYGpruo5la06Hp9AAcoY6Uc5pw/8YypPogY8KU.jpg?size=240x60&quality=96&sign=c6cd08f06452a13d601da45efbcb8063&type=album" /> 
 </div>
 <br><br>
 <div align="center">
