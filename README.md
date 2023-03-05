@@ -7,11 +7,6 @@
 <br><br>
 <br>
 <div align="center">
-<img src="https://sun9-79.userapi.com/impg/pe6I62BZUxyY421FnkV01WEkyV2cx-XrHW0FKQ/3-yBLczFJD0.jpg?size=240x60&quality=96&sign=1fd10c3d3dc62a8bd3f0def660bbde76&type=album"/> <img src="https://sun9-87.userapi.com/impg/J5ijPq0D3YV9o47ZSJVIVwVt9d6tYdu70D1ehg/RbZvUfYAsWc.jpg?size=240x60&quality=96&sign=78d6b9608005f4db44f4dd50039cb1a7&type=album" />
-</div>
-<br><br>
-<br>
-<div align="center">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtMkMHmkpBLXGwNMFZwcstwVCCkfbjxbrfmRZzCrkjFFVHFnlDwWjLfbzmHRtKFtrMSvTxsG" target="_blank">
     <img src="https://sun9-85.userapi.com/impg/NcQXo0K-XTDyL2eoDtQNJXP0LiQrcVRkIbw3Fw/uXH_3mMjXTw.jpg?size=240x60&quality=96&sign=d43bccd66f94a6b6f48241b469bc3ad0&type=album" />
   </a>
