@@ -1,4 +1,4 @@
-<img src="https://sun9-80.userapi.com/impg/JZaZj7BfrN33x8NtB1bH_WBFCyIlgkXwswMaXA/OWtM8sdRiCo.jpg?size=2000x40&quality=96&sign=633ed80d7c13defcddec353e11f79d5b&type=album" />
+![Описание изображения](./github_banner.png)
 <br><br>
 <div align="center">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtMkMHmkpBLXGwNMFZwcstwVCCkfbjxbrfmRZzCrkjFFVHFnlDwWjLfbzmHRtKFtrMSvTxsG" target="_blank">
